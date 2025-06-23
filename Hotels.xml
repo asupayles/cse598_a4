@@ -1,1 +1,140 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="2.9">
+		<Name>Antelope Inn And Suites</Name>
+		<Phone>801-825-8000</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>572</Number>
+			<Street>N. Main St</Street>
+			<City>Clearfield</City>
+			<State>UT</State>
+			<Zip>84015</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="3.9">
+		<Name>Comfort Inn Layton</Name>
+		<Phone>801-544-5577</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>877</Number>
+			<Street>N 400 W</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="3.5">
+		<Name>La Quinta Inn And Suites</Name>
+		<Phone>801-776-6700</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>1965</Number>
+			<Street>N 1200 W</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.5">
+		<Name>Best Western Plus Layton Park Hotel</Name>
+		<Phone>801-896-0271</Phone>
+		<Phone>800-780-7234</Phone>
+		<Address NearestAirport="Salt Lake Internationall">
+			<Number>798</Number>
+			<Street>W 1425 N</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="3.0">
+		<Name>Ameri-Stay Inn And Suites</Name>
+		<Phone>801-825-9500</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>815</Number>
+			<Street>N Main St</Street>
+			<City>Sunset</City>
+			<State>UT</State>
+			<Zip>84015</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Courtyard Salt Lake City Layton</Name>
+		<Phone>801-217-2300</Phone>
+		<Phone>800-627-7468</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>1803</Number>
+			<Street>Woodland Park Dr</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Hampton Inn Salt Lake City Layton</Name>
+		<Phone>801-775-8800</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>1700</Number>
+			<Street>Woodland Park Dr</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Tru by Hilton Clearfield Hill Air Force Base</Name>
+		<Phone>385-245-1305</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>640</Number>
+			<Street>Falcon Hills Dr</Street>
+			<City>Clearfield</City>
+			<State>UT</State>
+			<Zip>84015</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel>
+		<Name>Candlewood Suites Layton</Name>
+		<Phone>385-446-8788</Phone>
+		<Phone>877-226-3539</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>755</Number>
+			<Street>Heritage Park Blvd</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>TownePlaec Suites Salt Lake City Layton</Name>
+		<Phone>801-779-2422</Phone>
+		<Address NearestAirport="Salt Lake International">
+			<Number>1743</Number>
+			<Street>Woodland Park Dr</Street>
+			<City>Layton</City>
+			<State>UT</State>
+			<Zip>84041</Zip>
+		</Address>
+	</Hotel>
+	
+</Hotels>
